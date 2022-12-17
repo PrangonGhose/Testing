@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrangonGhose/Testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrangonGhose/Testing/issues"
+  },
+  "homepage": "https://github.com/PrangonGhose/Testing#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
